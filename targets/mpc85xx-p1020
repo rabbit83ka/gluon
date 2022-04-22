@@ -12,6 +12,13 @@ device('enterasys-ws-ap3710i', 'enterasys_ws-ap3710i', {
 })
 
 
+-- Extreme Networks
+
+device('extreme-networks-ws-ap3825i', 'extreme-networks_ws-ap3825i', {
+	factory = false,
+})
+
+
 -- OCEDO
 
 device('ocedo-panda', 'ocedo_panda', {
