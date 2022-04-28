@@ -240,6 +240,10 @@ mpc85xx-p1020
 ramips-mt7620
 -------------
 
+* ASUS
+
+  - RT-AC51U
+
 * GL.iNet
 
   - GL-MT300A
@@ -272,7 +276,7 @@ ramips-mt7621
 * ASUS
 
   - RT-AC57U
-  - RT-AC51U
+  
 
 * D-Link
 
